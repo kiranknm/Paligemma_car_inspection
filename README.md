@@ -29,6 +29,6 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/car-inspection-model.git
-cd car-inspection-model
+git clone https://github.com/kiranknm/Paligemma_car_inspection.git
+cd Paligemma_car_inspection
 ```
