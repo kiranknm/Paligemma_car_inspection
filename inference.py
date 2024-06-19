@@ -21,7 +21,7 @@ import requests
 import huggingface_hub
 
 # Set your Hugging Face token
-huggingface_hub.login(token='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') # Replace with your actual token
+huggingface_hub.login(token='****') # Replace with your actual token
 
 # Load PeftConfig and base model
 config = PeftConfig.from_pretrained("kiranmalape/paligemma_car_inspection")
