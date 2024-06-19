@@ -19,7 +19,7 @@ from peft import get_peft_model, LoraConfig
 import huggingface_hub
 
 # Set your Hugging Face token
-huggingface_hub.login(token='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') # Replace with your actual token
+huggingface_hub.login(token='*****') # Replace with your actual token
 # 1. Load Dataset
 train_ds = load_dataset('kiranmalape/car_inspection', split="train")
 print(train_ds[0])
