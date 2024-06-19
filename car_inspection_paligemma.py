@@ -9,7 +9,6 @@ Original file is located at
 
 !!pip install -U git+https://github.com/huggingface/transformers.git
 !pip install trl peft accelerate bitsandbytes pillow datasets
-!export HF_TOKEN=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
 
 import os
 from datasets import load_dataset, load_from_disk
