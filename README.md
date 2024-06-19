@@ -21,13 +21,13 @@ The Car Inspection Model is a fine tuned pali-gemma small vision language model 
 The dataset used for fine-tuning consists of car images with corresponding damage descriptions. Each image is labeled with detailed annotations of the damage.
 ```bash
 from datasets import dataset
-ds = dataset("kiranmalape/car_inspection")```
+ds = dataset("kiranmalape/car_inspection")
 
 ## Installation
 
 To set up the project, follow these steps:
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/yourusername/car-inspection-model.git
-   cd car-inspection-model```
+   cd car-inspection-model
