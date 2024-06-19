@@ -19,6 +19,9 @@ The Car Inspection Model is a fine tuned pali-gemma small vision language model 
 ## Dataset
 
 The dataset used for fine-tuning consists of car images with corresponding damage descriptions. Each image is labeled with detailed annotations of the damage.
+```bash
+from datasets import dataset
+ds = dataset("kiranmalape/car_inspection")
 
 ## Installation
 
