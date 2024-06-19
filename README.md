@@ -6,11 +6,7 @@ This project contains a fine-tuned model designed to describe car damage using a
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Training](#training)
-- [Inference](#inference)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
